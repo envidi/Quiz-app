@@ -1,0 +1,25 @@
+.result {
+  text-align: center;
+}
+.result h3 {
+  font-size: 24px;
+  letter-spacing: 1px;
+  text-align: center;
+}
+.result p {
+  font-size: 16px;
+  font-weight: 500;
+}
+.result p span {
+  color: #150080;
+  font-size: 22px;
+}
+.result table {
+  width: 50%;
+  text-align: left;
+  margin: 50px auto 20px;
+  border-collapse: collapse;
+}
+.result table tr {
+  border: 1px solid;
+}/*# sourceMappingURL=Result.css.map */
