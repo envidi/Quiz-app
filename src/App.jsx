@@ -4,7 +4,6 @@ import './App.css'
 import { useEffect,useState } from "react"
 function App() {
   const [questions , setQuestions ] = useState([])
-  console.log(questions)
   useEffect(()=>{
     getQuestions()
   },[])

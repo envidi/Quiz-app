@@ -35,7 +35,7 @@ function AnswerTimer({duration,onTimeUp}) {
           }`
         }}
          className="progress">
-            {counter}
+            {/* {counter} */}
         </div>
     </div>
   )
